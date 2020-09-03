@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reputations>
+  <Reputation>
+    <Key>GUARDBELOVED</Key>
+    <Name>Beloved</Name>
+    <Description>[H4]Beloved[h4]
+      Add [BO][BO][BO] to Charm and Negotiation checks. Add [SE][SE][SE] to Coercion checks.
+      The PC may spend a Destiny Point to follow the will of the Force to a person or place in need of defense. Unfamiliar NPCs frequently come to the Guardian with requests for help, usually related to the Guardian's specialization or most famous abilities.
+      The Guardian occasionally detects secret Force-using individuals, though they do not always detect the Gardian's abilities.
+      If the Guardian displays Force powers in public, the ISB or cabals of other Force users investigate immediately. 
+      Imperial Inquisitors might seek to find and vanquish the Guardian, having heard whispers of the character's prowess and virtue.</Description>
+    <Source Page="92">Keeping the Peace source book</Source>
+    <Level>3</Level>
+  </Reputation>
+  <Reputation>
+    <Key>GUARDRENOWNED</Key>
+    <Name>Renowned</Name>
+    <Description>[H4]Renowned[h4]
+      Add [BO][BO] to Charm and Negotiation checks. Add [SE][SE] to Coercion checks.
+      The PC may spend a Destiny Point to follow the will of the Force to a person or place in need of defense. Unfamiliar NPCs frequently come to the Guardian with requests for help.
+      The ISB or cabals of other Force users occasionally investigate stories of the PC.
+      If the Guardian displays Force powers in public, ISB agents might seek to capture the Guardian based on resulting reports of the character's mystical abilities</Description>
+    <Source Page="92">Keeping the Peace source book</Source>
+    <Level>2</Level>
+  </Reputation>
+  <Reputation>
+    <Key>GUARDRESPECTED</Key>
+    <Name>Respected</Name>
+    <Description>[H4]Respected[h4]
+      Add [BO][BO] to Charm and Negotiation checks. Add [SE][SE] to Coercion checks.</Description>
+    <Source Page="92">Keeping the Peace source book</Source>
+    <Level>1</Level>
+  </Reputation>
+  <Reputation>
+    <Key>GUARDNEUTRAL</Key>
+    <Name>Neutral</Name>
+    <Description>[H4]Neutral[h4]
+      Whether due to anonymity or a conflicted past marked by great deeds both cruel and kind, people are not inclined to either fear or trust the reputation of the Guardian (as always, add [BO] and [SE] as usual based on individual interactions and histories between the PC and other characters).</Description>
+    <Source Page="92">Keeping the Peace source book</Source>
+    <Level>0</Level>
+  </Reputation>
+  <Reputation>
+    <Key>GUARDFEARED</Key>
+    <Name>Feared</Name>
+    <Description>[H4]Feared[h4]
+      Add [BO][BO] to Coercion checks. Add [SE][SE] to Charm and Negotiation checks.</Description>
+    <Source Page="92">Keeping the Peace source book</Source>
+    <Level>-1</Level>
+  </Reputation>
+  <Reputation>
+    <Key>GUARDNOTORIOUS</Key>
+    <Name>Notorious</Name>
+    <Description>[H4]Notorious[h4]
+      Add [BO][BO] to Coercion checks. Add [SE][SE] to Charm and Negotiation checks. 
+      The PC may spend a Destiny Point to have an uninvolved individual overlook one of his misdeeds out of fear of his dark reputation.
+      The ISB or cabals of other Force users occasionally investigate stories of the PC.
+      If the Guardian displays Force powers in public, ISB agents might seek to capture the Guardian based on resulting reports of the character's mystical abilities.</Description>
+    <Source Page="92">Keeping the Peace source book</Source>
+    <Level>-2</Level>
+  </Reputation>
+  <Reputation>
+    <Key>GUARDDREADED</Key>
+    <Name>Dreaded</Name>
+    <Description>[H4]Dreaded[h4]
+      Add [BO][BO][BO] to Coercion checks. Add [SE][SE][SE] to Charm and Negotiation checks. 
+      The PC may spend a Destiny Point to have an uninvolved individual overlook one of his misdeeds or to cause a single minion NPC to flee in terror from an encounter with him because of the dark deeds the Guardian is rumored to have carried out.
+      If the Guardian displays Force powers in public, the ISB or cabals of other Force users investigate immediately.
+      Imperial Inquisitors might seek to find and vanquish (or recruit) the Guardian, having heard whispers of the character's terrible power.</Description>
+    <Source Page="92">Keeping the Peace source book</Source>
+    <Level>-3</Level>
+  </Reputation>
+</Reputations>
